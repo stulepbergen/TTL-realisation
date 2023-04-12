@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	cache "vscode2/example"
+	cache "github.com/stulepbergen/TTL-realisation/example"
 )
 
 func main() {
